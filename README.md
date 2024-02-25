@@ -11,4 +11,6 @@
     "https://en.wikipedia.org/wiki/Chatbot",
     "https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence",
     "https://en.wikipedia.org/wiki/Android_(robot)" these URLS. 
- 
+
+
+ Everything crawled from these webistes are saved in result.json file. There is also a .exe file so users do not need to open all the files in VScode or other code editors. Running the main.exe file will get everything crawled from these websites.
